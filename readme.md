@@ -9,3 +9,7 @@ COMANDOS
 
 # Agregar los cambios deseados
 '''git add . '''
+
+# Confirmar los cambios del Staging Area
+'''git commit -m 'mensaje del commit' '''
+
