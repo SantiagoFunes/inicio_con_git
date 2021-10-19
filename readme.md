@@ -12,3 +12,7 @@ COMANDOS
 
 # Confirmar los cambios del Staging Area
 '''git commit -m 'mensaje del commit' '''
+
+
+# Historial de commits
+'''git log'''
