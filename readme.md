@@ -16,3 +16,13 @@ COMANDOS
 
 # Historial de commits
 '''git log'''
+
+# Vincular repo local con repo remoto en Github
+
+'''git remote add origin https://github.com/SantiagoFunes/inicio_con_git.git'''
+
+# Subir mi repo local a Github
+```git push -u origin master```
+
+# Para clonar el repositorio
+ ``` git clone https://github.com/SantiagoFunes/inicio_con_git.git```
